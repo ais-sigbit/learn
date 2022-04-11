@@ -1,2 +1,3 @@
-# blockchain-tutorials
-curated open blockchain tutorials
+Curated Learning Materials on Blockchain Innovations and Technologies by SIGBIT
+
+Visit us at https://sigbit.org/
