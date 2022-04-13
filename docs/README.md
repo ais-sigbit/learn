@@ -12,6 +12,11 @@ We are looking forward to your contributions! Thanks!!
 - [A Developer’s Guide to the Web3 Stack](https://blog.alchemy.com/blog/web3-stack)
 - [Defining the web3 stack](https://edgeandnode.com/blog/defining-the-web3-stack)
 
+# Open Books
+
+- [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook)
+- [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook)
+
 # Technical Tutorials
 
 We recommend you start with the following tutorial:
