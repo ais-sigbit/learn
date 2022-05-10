@@ -27,3 +27,7 @@ Then, you can proceed with the following two:
 
 - [How to Build a Full Stack NFT Marketplace - V2 (2022)](https://dev.to/edge-and-node/building-scalable-full-stack-apps-on-ethereum-with-polygon-2cfb)
 - [The Complete Guide to Full Stack Web3 Development](https://dev.to/edge-and-node/the-complete-guide-to-full-stack-web3-development-4g74)
+
+# Courses
+
+- [Courses to Learn Blockchain](https://www.notion.so/Top-Courses-to-Learn-Blockchain-Innovations-and-Technologies-da6318ec2c9f40188c6252cdfbe0737c)
