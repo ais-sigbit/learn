@@ -30,4 +30,6 @@ Then, you can proceed with the following two:
 
 # Courses
 
-- [Courses to Learn Blockchain](https://www.notion.so/Top-Courses-to-Learn-Blockchain-Innovations-and-Technologies-da6318ec2c9f40188c6252cdfbe0737c)
+We have collected information on blockchain-related university courses as listed below. Please contact email jiaqiyan@nju.edu.cn if you want to add courses to the list:
+
+[Blockchain-related University Course List](https://marked-tellurium-7fb.notion.site/Courses-to-Learn-Blockchain-Innovations-and-Technologies-da6318ec2c9f40188c6252cdfbe0737c)
