@@ -7,6 +7,8 @@ We are looking forward to your contributions! Thanks!!
 
 # Web3 Basics
 
+If you are an absolute beginner, we recommend you start with the nice tutorial [My First NFT](https://myfirstnft.info/), then you can check out other resources listed below:
+
 - [Library of Web3](https://www.alexdphan.com/research/library-of-web3)
 - [A simple guide to the Web3 stack](https://blog.coinbase.com/a-simple-guide-to-the-web3-stack-785240e557f0)
 - [A Developer’s Guide to the Web3 Stack](https://blog.alchemy.com/blog/web3-stack)
